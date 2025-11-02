@@ -170,8 +170,7 @@ aws s3 cp sample-data.csv s3://my-source-bucket/input/
 ## 👤 Author
 
 **Harsh Yadav**
-📧 [harshryadav24@gmail.com](mailto:harshryadav24@gmail.com)
-📍 New Brunswick, NJ
+
 [GitHub](https://github.com/harshyad24) | [LinkedIn](https://www.linkedin.com/in/harshyadav577/)
 
 ---
