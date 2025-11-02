@@ -171,7 +171,6 @@ aws s3 cp sample-data.csv s3://my-source-bucket/input/
 
 **Harsh Yadav**
 
-
 [GitHub](https://github.com/harshyad24) | [LinkedIn](https://www.linkedin.com/in/harshyadav577/)
 
 ---
